@@ -1,1 +1,1 @@
-# Agile-coaching-scrum
+# agile-coaching
